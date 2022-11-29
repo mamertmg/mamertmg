@@ -10,7 +10,7 @@ However, during Covid-19 lockdowns I started learning web development. I have ha
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [marquezgarcia.a@gmail.com](mailto:marquezgarcia.a@gmail.com)
-* 🧠  I'm learning MERN Stack
+* 🧠  Developing Javascript based applications
 
 ### Skills
 
