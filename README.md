@@ -6,7 +6,7 @@ Full Stack Chemical Engineer
 
 Welcome to my Github profile!! I am professional chemical engineer working in the polymers industry. 
 
-However, during Covid-19 lockdowns I started learning web development. I have had some much fun with it that now it has become my hobby. I love it!!
+However I started learning web development during Covid. I have had some much fun and it was so challenging that now it has become my hobby.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [marquezgarcia.a@gmail.com](mailto:marquezgarcia.a@gmail.com)
