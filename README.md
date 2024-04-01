@@ -4,7 +4,7 @@ Hi 👋 My name is Alberto Márquez
 Full Stack Chemical Engineer
 ----------------------------
 
-Welcome to my Github profile!! I am professional chemical engineer working in the polymers industry, who has an interest in web development and cloud computing.
+Welcome to my Github profile!! I am professional chemical engineer working in the polymers industry with an interest in web development and cloud computing.
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [marquezgarcia.a@gmail.com](mailto:marquezgarcia.a@gmail.com)
