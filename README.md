@@ -6,9 +6,11 @@ Full Stack Chemical Engineer
 
 Welcome to my Github profile!! I am professional chemical engineer working in the polymers industry with an interest in web development and cloud computing.
 
-* 🌍  I'm based in Germany
-* ✉️  You can contact me at [marquezgarcia.a@gmail.com](mailto:marquezgarcia.a@gmail.com)
-* 🧠  Developing Javascript based applications and learning Python
+* I'm based in Germany
+* Please contact me at [marquezgarcia.a@gmail.com](mailto:marquezgarcia.a@gmail.com)
+🌐 Developing Javascript/Typescript applications and learning Python
+☁️  
+
    
 ### Skills
 
@@ -34,6 +36,7 @@ Welcome to my Github profile!! I am professional chemical engineer working in th
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="[https://avatars.githubusercontent.com/u/2810941?s=200&v=4](https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png)" width="36" height="36" alt="Azure" /></a>
 </p>
 
 ### Socials
