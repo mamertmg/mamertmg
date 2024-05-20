@@ -8,11 +8,11 @@ Welcome to my Github profile!! I am professional chemical engineer working in th
 
 * I'm based in Germany
 * Please contact me at [marquezgarcia.a@gmail.com](mailto:marquezgarcia.a@gmail.com)
-🌐 Developing Javascript/Typescript applications and learning Python
-☁️  
+* 🌐 Developing Javascript/Typescript applications and learning Python
+* ☁️  
 
    
-### Skills
+### Web development
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -34,9 +34,12 @@ Welcome to my Github profile!! I am professional chemical engineer working in th
  <a href="https://strapi.io/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XsZRGi5O--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/763/988af53b-5d7e-435a-98eb-dd4aff5299d2.png" width="36" height="36" alt="Strapi" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+
+### Cloud computing
+
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="[https://avatars.githubusercontent.com/u/2810941?s=200&v=4](https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png)" width="36" height="36" alt="Azure" /></a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png" width="36" height="36" alt="Azure" /></a>
 </p>
 
 ### Socials
