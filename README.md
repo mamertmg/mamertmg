@@ -6,13 +6,12 @@ Full Stack Chemical Engineer
 
 Welcome to my Github profile!! I am professional chemical engineer working in the polymers industry with an interest in web development and cloud computing.
 
-* I'm based in Germany
-* Please contact me at [marquezgarcia.a@gmail.com](mailto:marquezgarcia.a@gmail.com)
-* 🌐 Developing Javascript/Typescript applications and learning Python
-* ☁️  
-
+* 🇩🇪 I'm based in Germany
+* 📬 Please contact me at [marquezgarcia.a@gmail.com](mailto:marquezgarcia.a@gmail.com)
+* 🌐 Developing Javascript/Typescript applications. Learning Python.
+* ☁️  Deploying in the cloud AWS/GCP/Azure
    
-### Web development
+### Technology stack
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -37,8 +36,8 @@ Welcome to my Github profile!! I am professional chemical engineer working in th
 
 ### Cloud computing
 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
-<a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="36" height="36" alt="AWS" /></a>
+<a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" width="36" height="36" alt="Google Cloud" /></a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png" width="36" height="36" alt="Azure" /></a>
 </p>
 
