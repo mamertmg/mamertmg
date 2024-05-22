@@ -9,7 +9,7 @@ Welcome to my Github profile!! I am professional chemical engineer working in th
 * 🇩🇪 I'm based in Germany
 * 📬 Please contact me at [marquezgarcia.a@gmail.com](mailto:marquezgarcia.a@gmail.com)
 * 🌐 Developing Javascript/Typescript applications. Learning Python.
-* ☁️  Deploying in the cloud AWS/GCP/Azure
+* ☁️  Deploying in AWS/GCP/Azure
    
 ### Technology stack
 
