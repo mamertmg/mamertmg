@@ -46,6 +46,8 @@ Welcome to my Github profile!! I am professional chemical engineer working in th
 
 <a href="https://www.credly.com/badges/93005db0-1d34-4be8-a9e7-a92756fcbd1e/public_url" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="80" height="80" alt="Associate Gloogle Cloud Engineer" /></a>
 
+<a href="https://www.credly.com/badges/75b5031b-734d-41a0-9807-64213e406fea/linked_in_profile" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80" height="80" alt="AWS Certified Solutions Architect – Associate" /></a>
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mamertmg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/marquezalberto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
