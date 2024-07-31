@@ -41,7 +41,10 @@ Welcome to my Github profile!! I am professional chemical engineer working in th
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="36" height="36" alt="AWS" /></a>
 <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" width="36" height="36" alt="Google Cloud" /></a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="36" height="36" alt="Azure" /></a>
-</p>
+
+### Certifications
+
+<a href="https://www.credly.com/badges/93005db0-1d34-4be8-a9e7-a92756fcbd1e/public_url" target="_blank" rel="noreferrer"><img src="https://www.credly.com/badges/93005db0-1d34-4be8-a9e7-a92756fcbd1e/public_url" width="36" height="36" alt="Associate Gloogle Cloud Engineer" /></a>
 
 ### Socials
 
