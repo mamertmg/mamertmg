@@ -48,7 +48,7 @@ Welcome to my Github profile!! I am professional chemical engineer working in th
 
 <a href="https://www.credly.com/badges/75b5031b-734d-41a0-9807-64213e406fea/linked_in_profile" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="60" height="60" alt="AWS Certified Solutions Architect – Associate" /></a>
 
-<a href="https://learn.microsoft.com/en-us/users/marqueza/credentials/e3630daa76b3e10f" target="_blank" rel="noreferrer"><img src="https://vcloudnine.de/images/AZ-103-Azure-Administrator-Associate.jpg" width="60" height="60" alt="Microsoft Certified Azure Administrator - Associate: " /></a>
+<a href="https://learn.microsoft.com/en-us/users/marqueza/credentials/e3630daa76b3e10f" target="_blank" rel="noreferrer"><img src="https://vcloudnine.de/images/AZ-103-Azure-Administrator-Associate.jpg" width="36" height="36" alt="Microsoft Certified Azure Administrator - Associate: " /></a>
 
 ### Socials
 
