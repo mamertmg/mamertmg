@@ -40,7 +40,7 @@ Welcome to my Github profile!! I am professional chemical engineer working in th
 
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="36" height="36" alt="AWS" /></a>
 <a href="https://cloud.google.com/?hl=en" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" width="36" height="36" alt="Google Cloud" /></a>
-<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="62" height="62" alt="Azure" /></a>
+<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="36" height="36" alt="Azure" /></a>
 
 ### Certifications
 
@@ -48,7 +48,7 @@ Welcome to my Github profile!! I am professional chemical engineer working in th
 
 <a href="https://www.credly.com/badges/75b5031b-734d-41a0-9807-64213e406fea/linked_in_profile" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="60" height="60" alt="AWS Certified Solutions Architect – Associate" /></a>
 
-<a href="https://learn.microsoft.com/en-us/users/marqueza/credentials/e3630daa76b3e10f" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C4E12AQEZsvUwoYIrzw/article-cover_image-shrink_600_2000/0/1624964650465?e=2147483647&v=beta&t=Tgg4uwznpFmgUSPXaDMU12zGKeReHIt8tWiWmEtSvEY" width="36" height="36" alt="Microsoft Certified Azure Administrator - Associate: " /></a>
+<a href="https://learn.microsoft.com/en-us/users/marqueza/credentials/e3630daa76b3e10f" target="_blank" rel="noreferrer"><img src="https://media.licdn.com/dms/image/C4E12AQEZsvUwoYIrzw/article-cover_image-shrink_600_2000/0/1624964650465?e=2147483647&v=beta&t=Tgg4uwznpFmgUSPXaDMU12zGKeReHIt8tWiWmEtSvEY" width="100" height="100" alt="Microsoft Certified Azure Administrator - Associate: " /></a>
 
 ### Socials
 
